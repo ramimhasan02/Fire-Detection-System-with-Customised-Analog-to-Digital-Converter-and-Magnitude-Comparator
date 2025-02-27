@@ -1,0 +1,1 @@
+# Fire-Detection-System-with-Customised-Analog-to-Digital-Converter-and-Magnitude-Comparator
